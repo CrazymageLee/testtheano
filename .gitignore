@@ -1,0 +1,3 @@
+*.pyc
+mini_mnist.pkl.gz
+*.mat
